@@ -1,7 +1,7 @@
-//code for Arduino IoT
-// it is the peripheral device
-// provides information and the characteristics
-// provides the info for the central devices
+//Credits: Alexandros Panagiotakopoulos, Christos Koutsos  & The Autonomous Systems Laboratory, University of Ioannina
+//MIT LICENSE
+//code for Arduino BLE 
+//Peripheral device
 
 #include <ArduinoBLE.h>
 #include <LiquidCrystal_I2C.h>
