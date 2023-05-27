@@ -13,9 +13,7 @@ Both of the following codes were compiled on the Arduino IDE version 2.0.3.
 
 The codes are compatible and have been tested on for the folowing boards:
 
-| Compiler/IDE | Download Link |
-| --------------- | ---------------- |
-| ARDUINO-IDE | [Download Link](https://www.arduino.cc/en/software) |
+
 
 -ESP32 Dev Kit
 
@@ -27,3 +25,8 @@ The codes are compatible and have been tested on for the folowing boards:
 
 
 -ARDUINO NANO 33 IOT
+
+
+| Compiler/IDE | Download Link |
+| --------------- | ---------------- |
+| ARDUINO-IDE | [Download Link](https://www.arduino.cc/en/software) |
