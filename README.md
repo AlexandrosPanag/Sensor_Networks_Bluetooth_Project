@@ -1,5 +1,19 @@
 # Sensor Networks Bluetooth Project
 
+
+
+<img src="https://img.shields.io/bower/l/mi">
+
+
+Credits: [@alexandrospanag](https://github.com/alexandrospanag)
+
+
+[@chkoutsos](https://github.com/chkoutsos)
+
+and the Autonomous Systems Laboratory, University of Ioannina.
+
+
+
 Group collaboration project with @chKoutsos & The Autonomous Systems Laboratory during the academic year 2022-2023, for the Sensor Networks Lesson of the Department of Informatics &amp; Telecommunications, University Of Ioannina, academic year 2022-2023.
 
 ![](https://raw.githubusercontent.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project/main/1.png)
