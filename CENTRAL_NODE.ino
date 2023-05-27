@@ -1,3 +1,5 @@
+//Credits: Alexandros Panagiotakopoulos, Christos Koutsos  & The Autonomous Systems Laboratory, University of Ioannina
+//MIT LICENSE
 //code for Arduino BLE 
 //central device
 #include <ArduinoBLE.h>
