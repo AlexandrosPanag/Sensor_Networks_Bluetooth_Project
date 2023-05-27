@@ -13,7 +13,7 @@ Both of the following codes were compiled on the Arduino IDE version 2.0.3.
 
 The codes are compatible and have been tested on for the folowing boards:
 
--ESP32
+-ESP32 Dev Kit
 
 
 -ESP32-C3
