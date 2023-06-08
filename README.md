@@ -10,7 +10,7 @@ Credits: [@alexandrospanag](https://github.com/alexandrospanag)
 
 [@chkoutsos](https://github.com/chkoutsos)
 
-and the Autonomous Systems Laboratory, University of Ioannina.
+and the Autonomous Systems Laboratory, University of Ioannina, 2022-2023.
 
 
 
